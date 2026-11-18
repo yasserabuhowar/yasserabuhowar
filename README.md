@@ -30,6 +30,7 @@ This GitHub is where I turn domain problems from those fields into working proto
 | Project | What it is | Stack |
 |---|---|---|
 | [**fullbody-agent-poc**](https://github.com/yasserabuhowar/fullbody-agent-poc) | Multi-agent pipeline (LangGraph) that runs a molecule through molecule → target → cell → organ → body checks using ChEMBL v34 data, with a one-compartment PK model checked against FDA label values. Documents its own known failures. | Python · LangGraph · RDKit · ChEMBL · Streamlit · pytest |
+| [**plant-drug-discovery**](https://github.com/yasserabuhowar/plant-drug-discovery) ([live demo](https://yasserabuhowar.github.io/plant-drug-discovery/)) | Arabic-first research assistant that takes a medicinal plant through six phases: active compounds, molecular targets, development priorities, regulatory pathway (FDA / EMA / WHO and Palestinian context), research guide, and links into 20 scientific databases. | HTML · JavaScript · Claude API · RTL |
 | [**esp32-iot-lab-simulator**](https://github.com/yasserabuhowar/esp32-iot-lab-simulator) ([live demo](https://yasserabuhowar.github.io/esp32-iot-lab-simulator/)) | Arabic 3D teaching simulator of an ESP32 + DHT22 temperature/humidity monitor sending readings to ThingsBoard over MQTT: guided tour, 4 test scenarios, offline buffer logic. | HTML · Three.js · IoT/MQTT |
 
 ### Areas of focus
